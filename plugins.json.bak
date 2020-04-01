@@ -14,5 +14,21 @@
 				"requires":"0.0.1"
 			}
 		]
+	},
+	{
+		"projectUrl":"https://discord.gg/OpenOSRS",
+		"provider":"OpenOSRS",
+		"name":"Screenshot",
+		"description":"Screenshot+",
+		"id":"screenshot-plugin",
+		"releases":[
+			{
+				"date":"2020-03-31",
+				"sha512sum":"5d14627988a6ee73298c2741f19c90468379bb7f6d501717ff968709011159112e74a9c293a1d1a440ca6f35c287beb85d06c874463db7a41b45612b61d02365",
+				"version":"0.0.5",
+				"url":"https://github.com/jaredjpruett/plugin-hosting/blob/master/release/screenshot-0.0.5.jar?raw=true",
+				"requires":"0.0.1"
+			}
+		]
 	}
 ]

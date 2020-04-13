@@ -3,12 +3,12 @@
 		"projectUrl":"https://discord.gg/OpenOSRS",
 		"provider":"OpenOSRS",
 		"name":"Reorder Prayers",
-		"description":"Reorder your fucking prayers",
+		"description":"Reorder the prayers displayed on the Prayer panel",
 		"id":"reorderprayers-plugin",
 		"releases": [
 			{
-				"date":"2020-03-28",
-				"sha512sum":"E26B14272CEB5683BDE0C104F2997E23DAA0204039A7BC961D6983A3E8F60BC3A067AA3BE2D7F7A1CD17B998442CAB4053903EC8CC3EEAC8269C249DA6E0FBE0",
+				"date":"2020-04-13",
+				"sha512sum":"927143a686a72d26377acdd78b1f9a6f7ec023ee512e6f2da7d6cc8976aabc310419421863fcb79098a56ecd4ba4fbb971ddf9ecbd640fb3849bf04386458181",
 				"version":"0.0.2",
 				"url":"https://github.com/jaredjpruett/plugin-hosting/blob/master/release/reorderprayers-0.0.2.jar?raw=true",
 				"requires":"0.0.1"
@@ -19,12 +19,12 @@
 		"projectUrl":"https://discord.gg/OpenOSRS",
 		"provider":"OpenOSRS",
 		"name":"Screenshot",
-		"description":"Screenshot+",
+		"description":"Enable the manual and automatic taking of screenshots",
 		"id":"screenshot-plugin",
 		"releases":[
 			{
-				"date":"2020-04-08",
-				"sha512sum":"881E45173156F275C81FB4311993B6605F413E4CF775CB4BC77BB247221D693ACD6936BCA2AA89AD34A68CFBA6CB27493BCEC52FAF50C03ADD213068DA160A9B",
+				"date":"2020-04-13",
+				"sha512sum":"E2826E8C8E125012887751A3305C6761FBE4FC4B7734134B29C53EBB5054404D0037FD554472AE22224AD9DD4DC65BBAFF5E17850BD8F57E7DDEAE7CCB5CD177",
 				"version":"0.0.5",
 				"url":"https://github.com/jaredjpruett/plugin-hosting/blob/master/release/screenshot-0.0.5.jar?raw=true",
 				"requires":"0.0.1"

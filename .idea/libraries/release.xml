@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="release">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/release/reorderprayers-0.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/release/screenshot-0.0.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

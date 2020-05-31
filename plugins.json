@@ -25,8 +25,8 @@
 			{
 				"date":"2020-05-30",
 				"sha512sum":"4088896150a9f3e7a473df9097ce9c9251fbc5a659b30b6156a8f37b2672281a309eecf27e0efde965b46503a9ce02cef8f1e3578ffefb1417ea17f3d5a294ef",
-				"version":"0.0.10",
-				"url":"https://github.com/jaredjpruett/plugin-hosting/blob/master/release/screenshot-0.0.10.jar?raw=true",
+				"version":"0.0.11",
+				"url":"https://github.com/jaredjpruett/plugin-hosting/blob/master/release/screenshot-0.0.11.jar?raw=true",
 				"requires":"0.0.1"
 			}
 		]

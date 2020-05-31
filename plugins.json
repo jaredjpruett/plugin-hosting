@@ -8,7 +8,7 @@
 		"releases": [
 			{
 				"date":"2020-04-13",
-				"sha512sum":"927143A686A72D26377ACDD78B1F9A6F7EC023EE512E6F2DA7D6CC8976AABC310419421863FCB79098A56ECD4BA4FBB971DDF9ECBD640FB3849BF04386458181",
+				"sha512sum":"927143a686a72d26377acdd78b1f9a6f7ec023ee512e6f2da7d6cc8976aabc310419421863fcb79098a56ecd4ba4fbb971ddf9ecbd640fb3849bf04386458181",
 				"version":"0.0.2",
 				"url":"https://github.com/jaredjpruett/plugin-hosting/blob/master/release/reorderprayers-0.0.2.jar?raw=true",
 				"requires":"0.0.1"
@@ -24,9 +24,9 @@
 		"releases":[
 			{
 				"date":"2020-05-30",
-				"sha512sum":"6B51E011F5C6F7A86272DB5F57CF299F0FCCA57B274A597873E316423021B58A5B44A0AFB8A81AADB91C619D4F4F84CD64D283E2862A6FF24AEF2CDF4F62CEB2",
-				"version":"0.0.11",
-				"url":"https://github.com/jaredjpruett/plugin-hosting/blob/master/release/screenshot-0.0.11.jar?raw=true",
+				"sha512sum":"4088896150a9f3e7a473df9097ce9c9251fbc5a659b30b6156a8f37b2672281a309eecf27e0efde965b46503a9ce02cef8f1e3578ffefb1417ea17f3d5a294ef",
+				"version":"0.0.10",
+				"url":"https://github.com/jaredjpruett/plugin-hosting/blob/master/release/screenshot-0.0.10.jar?raw=true",
 				"requires":"0.0.1"
 			}
 		]

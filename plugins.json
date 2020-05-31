@@ -1,7 +1,7 @@
 [
 	{
 		"projectUrl":"https://discord.gg/OpenOSRS",
-		"provider":"OpenOSRS",
+		"provider":"Shanktank",
 		"name":"Reorder Prayers",
 		"description":"Reorder the prayers displayed on the Prayer panel",
 		"id":"reorderprayers-plugin",
@@ -17,7 +17,7 @@
 	},
 	{
 		"projectUrl":"https://discord.gg/OpenOSRS",
-		"provider":"OpenOSRS",
+		"provider":"Shanktank",
 		"name":"Screenshot",
 		"description":"Enable the manual and automatic taking of screenshots",
 		"id":"screenshot-plugin",
@@ -25,7 +25,7 @@
 			{
 				"date":"2020-04-13",
 				"sha512sum":"6b51e011f5c6f7a86272db5f57cf299f0fcca57b274a597873e316423021b58a5b44a0afb8a81aadb91c619d4f4f84cd64d283e2862a6ff24aef2cdf4f62ceb2",
-				"version":"0.0.5",
+				"version":"0.0.11",
 				"url":"https://github.com/jaredjpruett/plugin-hosting/blob/master/release/screenshot-0.0.11.jar?raw=true",
 				"requires":"0.0.1"
 			}

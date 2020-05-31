@@ -24,9 +24,9 @@
 		"releases":[
 			{
 				"date":"2020-05-30",
-				"sha512sum":"70f3675241363cde1ce99d9ace1c157efd9573cb1b2398e6f69c53d9ca34ec6bbb9e0304c3feafdc9fb1885c0540969230c1020831a0b882ca9ad864cf824547",
-				"version":"0.0.10",
-				"url":"https://github.com/jaredjpruett/plugin-hosting/blob/master/release/screenshot-0.0.10.jar?raw=true",
+				"sha512sum":"26ce4f718d2edfe7c17b699d5134203bec6c8217484a93f1f3b87d16c9869eaa6440f60d3b288a6d2e205b41dd8713c7d5d99935af95ccf464c3dda6bb5a314f",
+				"version":"0.0.11",
+				"url":"https://github.com/jaredjpruett/plugin-hosting/blob/master/release/screenshot-0.0.11.jar?raw=true",
 				"requires":"0.0.1"
 			}
 		]

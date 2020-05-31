@@ -1,7 +1,7 @@
 [
 	{
 		"projectUrl":"https://discord.gg/OpenOSRS",
-		"provider":"Shanktank",
+		"provider":"OpenOSRS",
 		"name":"Reorder Prayers",
 		"description":"Reorder the prayers displayed on the Prayer panel",
 		"id":"reorderprayers-plugin",
@@ -17,7 +17,7 @@
 	},
 	{
 		"projectUrl":"https://discord.gg/OpenOSRS",
-		"provider":"Shanktank",
+		"provider":"OpenOSRS",
 		"name":"Screenshot",
 		"description":"Enable the manual and automatic taking of screenshots",
 		"id":"screenshot-plugin",

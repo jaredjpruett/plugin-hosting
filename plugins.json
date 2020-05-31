@@ -18,15 +18,15 @@
 	{
 		"projectUrl":"https://discord.gg/OpenOSRS",
 		"provider":"OpenOSRS",
-		"name":"Screenshot",
+		"name":"Screenshots",
 		"description":"Enable the manual and automatic taking of screenshots",
-		"id":"screenshot-plugin",
+		"id":"screenshots-plugin",
 		"releases":[
 			{
 				"date":"2020-05-30",
-				"sha512sum":"26ce4f718d2edfe7c17b699d5134203bec6c8217484a93f1f3b87d16c9869eaa6440f60d3b288a6d2e205b41dd8713c7d5d99935af95ccf464c3dda6bb5a314f",
+				"sha512sum":"3b4a0e0eecfb69e565d745ba99899b14c254b43cf5322044261a657f09831dae550e249e4c1ef56677a0730ce512730d371cb59bca044a598959fcc5a76dd234",
 				"version":"0.0.11",
-				"url":"https://github.com/jaredjpruett/plugin-hosting/blob/master/release/screenshot-0.0.11.jar?raw=true",
+				"url":"https://github.com/jaredjpruett/plugin-hosting/blob/master/release/screenshots-0.0.11.jar?raw=true",
 				"requires":"0.0.1"
 			}
 		]

@@ -30,5 +30,21 @@
 				"requires":"0.0.1"
 			}
 		]
+	},
+	{
+		"projectUrl":"https://discord.gg/OpenOSRS",
+		"provider":"OpenOSRS",
+		"name":"Barrows Brothers",
+		"description":"Show helpful information for the Barrows minigame",
+		"id":"barrowsbrothers-plugin",
+		"releases":[
+			{
+				"date":"2020-07-19",
+				"sha512sum":"158471cd8fb752385df5d1dbce812c9ef5f5be17e3b5b22776106b3174e8b05f73d88ce17121a60a86c7268c147308778b5247331033408d52d7451e4be23455",
+				"version":"0.0.9",
+				"url":"https://github.com/jaredjpruett/plugin-hosting/blob/master/release/barrows-0.0.9.jar?raw=true",
+				"requires":"0.0.1"
+			}
+		]
 	}
 ]
